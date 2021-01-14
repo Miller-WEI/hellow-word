@@ -1,2 +1,2 @@
 # hellow-word
-learn create project
+learn create project for android
